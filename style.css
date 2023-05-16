@@ -1,0 +1,60 @@
+body{
+    background-color: aliceblue;
+    background-image: linear-gradient(blue,red);
+    background-attachment: fixed;
+}
+.main{
+    border: 1px solid transparent;
+    background-color:whitesmoke;
+    width: 500px;
+    border-radius: 5px;
+    margin:20vh auto auto auto;
+    padding: 20px;
+}
+h1{
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
+}
+button{
+   background-color:red;
+   color: white;
+   border: 1px solid transparent;
+   padding:10px 30px;
+   margin: 20px 0;
+   width: 100%;
+   font-size: 30px;
+   cursor: pointer;
+   
+}
+.user{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.user>input{
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 20px;
+    border-color:violet;
+    color: black;
+}
+.user input:focus{
+    outline: 0;
+}
+.error{
+    color: red;
+    font-size: 16px;
+
+}
+label{
+    color:green;
+    font-size: 25px;
+}
+.user.success input{
+    border-color: green;
+}
+.user.error input{
+    border-color: red;
+}
