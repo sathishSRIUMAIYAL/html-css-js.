@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<img align='right' alt='coding' width='400' src='https://w7.pngwing.com/pngs/386/188/png-transparent-programmer-programming-language-software-developer-computer-programming-sublime-text-computer-cartoon-furniture-reading-cartoon-thumbnail.png'>
+<img align='right' alt='coding' width='400' src='https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif'>
 <p align="left">
 <a href="https://codepen.io/sathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sathishkumar" height="30" width="40" /></a>
 <a href="https://dev.to/sathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sathishkumar" height="30" width="40" /></a>
